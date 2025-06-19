@@ -40,7 +40,7 @@ El proyecto está organizado en tres directorios principales: backend, frontend 
 - Documentación adicional sobre la ontología, el diseño de base de datos y la teoría del color se encuentra en el directorio `docs`.
 
 ## Integrantes del Equipo
-Este proyecto fue desarrollado por [Jhoan Esteban Londoño Escobar]. Para más información sobre el equipo, visita la página "Acerca de" en el frontend.
+Este proyecto fue desarrollado por **Jhoan Esteban Londoño Escobar**. Para más información sobre el equipo, visita la página "Acerca de" en el frontend.
 
 ## Conclusión
 Este proyecto sirve como un ejercicio educativo en el desarrollo de aplicaciones web, enfocándose en la integración de diversos conceptos de la ingeniería de software.
