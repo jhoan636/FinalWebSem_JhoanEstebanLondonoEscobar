@@ -18,11 +18,20 @@ El proyecto está organizado en tres directorios principales: backend, frontend 
    ```
    npm install
    ```
-3. Start the server:
+3. **Configurar MongoDB**
+   Asegúrate de tener una instancia de MongoDB en funcionamiento. Puedes usar MongoDB Atlas como solución en la nube o ejecutarlo localmente.
+
+3. **Configurar Variables de Entorno**
+   Crea un archivo `.env` en el directorio backend y agrega tu cadena de conexión de MongoDB:
+   ```
+   MONGODB_URI=<tu-cadena-de-conexión-mongodb>
+   ```
+> NOTA: Ya tiene una BD por defecto en caso de quererla cambiar lo puedes hacer en el .env
+5. Start the server:
    ```
    npm start
    ```
-4. El servidor se ejecutará en `http://localhost:3001`.
+6. El servidor se ejecutará en `http://localhost:3001`.
 
 ### Frontend
 1. Navega al directorio `frontend/public`.
